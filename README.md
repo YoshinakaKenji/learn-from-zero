@@ -1,2 +1,2 @@
 # learn-from-zero
-done
+ini adalah poject pertama saya dengan python
