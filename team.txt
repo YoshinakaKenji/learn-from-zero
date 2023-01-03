@@ -1,2 +1,1 @@
-leader: kenji
-staff -
+learder
